@@ -1,4 +1,4 @@
-# Django TF-IDF Analyzer 📊
+# Django TF-IDF Analyzer 
 
 A simple Django project that lets users upload a `.txt` file and analyzes the Term Frequency and Inverse Document Frequency (TF-IDF) of words in the text.
 
